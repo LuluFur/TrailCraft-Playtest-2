@@ -17,7 +17,7 @@ TrailCraft is in playtesting. This means we are still testing it with players. I
 > [Read the playtest licence](LICENCE.txt)
 
 <p align="center">
-  <a href="https://github.com/LuluFur/TrailCraft-Playtest-2/releases/download/v0.2.0/TrailCraft-test.zip"><strong>⬇ Download TrailCraft Playtest 2 (Windows)</strong></a>
+  <a href="https://github.com/LuluFur/TrailCraft-Playtest-2/releases/download/v0.2.1/TrailCraft-test.zip"><strong>⬇ Download TrailCraft Playtest 2 v0.2.1 (Windows)</strong></a>
 </p>
 
 ## Start a new map
@@ -35,10 +35,6 @@ TrailCraft looks for Trailmakers in your Steam library. Your Steam library is th
 
 `C:\Program Files (x86)\Steam\steamapps\common\Trailmakers`
 TrailCraft remembers this folder.
-
-## Known bug
-
-When you build or repair a vehicle, Trailmakers may pick the Test Zone floor as the place to do it, instead of your terrain. I know about this. It comes from how the game works.
 
 ## What you can do
 
